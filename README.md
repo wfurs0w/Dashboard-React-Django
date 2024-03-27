@@ -15,7 +15,7 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 - ✅ **Full-stack Ready** using a **Django API Server** (open-source project) - Server Features
   - Django / DRF / SQLite3 - a simple, easy to use backend
   - Authentication with JWT (login, logout, register)
-  - Docker, Unitary tests
+  - Docker, Unitary testss
 
 <br />
 
