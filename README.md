@@ -7,7 +7,7 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 <br />
 
-> Features 
+> Features  
 
 - ✅ Innovative `Material-UI Design` - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
 - ✅ React, Redux, Redux-persist
